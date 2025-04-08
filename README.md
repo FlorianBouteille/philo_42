@@ -1,6 +1,6 @@
 #Philosophers
 
-This it the classic philosophers problem. 
+This is the classic philosophers problem. 
 
 It consists in creating a simulation in which philosophers are sitting aroung a round table and have to alternatively eat, sleep and think.
 The amount of philosophers is given as a parameter of the program, as well as how long it takes them to eat, sleep and starve to death if they don't eat in time.
